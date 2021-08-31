@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Password Factory</string>
+    <string name="generate">Generate</string>
+    <string name="only_text">Only Text</string>
+    <string name="only_numbers">Only numbers</string>
+    <string name="alphanumerical">Alphanumerical</string>
+    <string name="all">All</string>
+    <string name="enter_the_size_of_your_password">ENTER THE SIZE OF YOUR PASSWORD:</string>
+    <string name="size_of_your_password">Size of your password</string>
+</resources>
